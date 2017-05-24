@@ -15,6 +15,10 @@
 ![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/3.gif)
 ![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/4.gif)
 
+## 项目组件
+- [x] 首页       -- 完成
+- [x] 歌曲排行   -- 完成
+
 ## 安装运行（Build Setup）
 
 ``` bash
